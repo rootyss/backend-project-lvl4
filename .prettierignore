@@ -1,0 +1,9 @@
+/build
+/node_modules
+Dockerfile
+LICENSE
+.env
+/idea
+Makefile
+__fixtures__
+README.md
